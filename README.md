@@ -12,7 +12,7 @@
 
 <br>
 
-<div justfy-content= "space-around" align-itens= "center" >
+<div justfy-content= "space-beetween" align-itens= "center" >
 <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jrianmoura&show_icons=true&locale=en&layout=compact" alt="jrianmoura" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jrianmoura&show_icons=true&locale=en" alt="jrianmoura" /></p>
 <div>
