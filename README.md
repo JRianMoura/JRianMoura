@@ -4,6 +4,24 @@
 <h3 align="left">Meu site em:</h3>
 <p align="left">www.voufazermeuportifólioainda.com.br</p>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jrianmoura&label=Profile%20views&color=0e75b6&style=flat" alt="jrianmoura" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jrianmoura" alt="jrianmoura" /></a> </p>
+
+<h3 align="left">Meu Linkedin:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/judsonrian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="judsonrian" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jrianmoura&show_icons=true&locale=en&layout=compact" alt="jrianmoura" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrianmoura&show_icons=true&locale=en" alt="jrianmoura" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jrianmoura&" alt="jrianmoura" /></p>
+
+
+
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left">
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
