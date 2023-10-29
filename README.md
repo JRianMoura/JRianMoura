@@ -12,11 +12,10 @@
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jrianmoura&show_icons=true&locale=en&layout=compact" alt="jrianmoura" /></p>
+<p align= "center"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jrianmoura&show_icons=true&locale=en&layout=compact" alt="jrianmoura" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrianmoura&show_icons=true&locale=en" alt="jrianmoura" /></p>
+<p align= "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrianmoura&show_icons=true&locale=en" alt="jrianmoura" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jrianmoura&" alt="jrianmoura" /></p>
 
 
 
