@@ -2,8 +2,6 @@
 <h3 align="center">Desenvolvedor</h3>
 <br>
 
-<h3 align="left">Meu site em:</h3>
-<p align="left">www.voufazermeuportifólioainda.com.br</p>
 
 <br>
 <h3 align="left">Meu Linkedin:</h3>
